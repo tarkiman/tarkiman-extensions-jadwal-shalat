@@ -1,0 +1,12 @@
+{
+
+    "name": "Tarkiman",
+    "logammulia": "TZcWmQkTW2eGRx8VOUOPVqGEIX61owqf0oAutn0r",
+    "youtube": {
+        "api_key": "AIzaSyA5xZzd1HQpINNJRFa7GCqT9x-85KNBDmA",
+        "user_id": "UCugrCaJYTg5mkzk9fIFmDRA"
+    },
+    "features": {
+        "random_ayat": true
+    }
+}

@@ -1,0 +1,19 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "content_security_policy": "script-src 'self' https://asia-southeast2-muslim-board-ind-1472876095243.cloudfunctions.net https://unsplash.com; object-src 'self'",
+   "description": "Personal Dashboard for Muslim",
+   "icons": {
+      "128": "assets/internal/images/logo-128.jpg",
+      "16": "assets/internal/images/logo-16.jpg",
+      "48": "assets/internal/images/logo-48.jpg"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsi54hb9wDYbEYXQ1Rk0GICcV1wfgOLLizCOM9towUWZx5xLwH+XLaUAdO8LPidUiahnFi/b+7S6wDKZ94xJK88DdsHE/WUxXf468HD9wMN6oHKr8yyH7J+Gtvuwr1p8ptC85Yjl4RFDHCxouyQUxzxjSDtY1DHvPsU7891NoGhwhp6SSu07ThzMnkKHpRWBhILcxW5WJgjNCpgWkVYtzfUwg5takafCWE7Vd1UDwB+qCLMIYMsKyKGD6rejZQgtvoydrhOs9UG6IUwdyfgEZVhyBUIwsQ1dhBIVkA2PxVCeRAZpm22CCIsJt3qBzPvsjHIiEr7ncNy68tOP4beQwvwIDAQAB",
+   "manifest_version": 2,
+   "name": "Tarkiman",
+   "permissions": [ "geolocation", "alarms", "notifications","background", "storage", "http://*/*", "https://*/*" ],
+   "short_name": "tarkiman",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4.6"
+}
